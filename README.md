@@ -1,19 +1,26 @@
-
 # Rahul Bainsla
 
-Building AI systems & medical robotics that ship to real customers | CS @ Virginia Tech '26
+Computer Science student at Virginia Tech, graduating May 2027. I build AI systems, developer tools, distributed infrastructure, and medical robotics products that solve real-world problems.
 
-Co-founded MedRa Robotics through Founders Inc (SF) — autonomous radiation protection system piloting at Providence Hospital. Selected for Future Factory China manufacturing program (March '25) to scale production. Won 1st place VT Entrepreneurship Club Hackathon.
+Co-Founder & CTO of **MedRa Robotics**, where I lead software engineering across ROS 2 robotics control, computer vision, and hardware-software integration. We are developing a working robotic radiation-shield prototype designed to reduce clinicians’ occupational radiation exposure and have secured a hospital pilot program.
 
-Built AI podcast generators (Groq, ElevenLabs), full-stack robotics systems (ROS2, computer vision), cross-platform apps. Python • ROS2 • TypeScript • React • TensorFlow.
+## Featured Projects
 
-## Projects
-- **LeadShield**: A medical robot (hospital pilot)
-- **deeptalks**: AI podcast app
-- **SimplePrompt**: Cross-platform AI tool
-- **RoS2Setup**: Robotics framework
+- **[RepoWhisper](https://github.com/Rahul-sch/RepoWhisper)** — Private macOS developer tool for voice-controlled semantic search across local codebases using SwiftUI, FastAPI, Faster-Whisper, and LanceDB.
+- **[VibeGuard](https://github.com/Rahul-sch/VibeGuard)** — Static-analysis security CLI that detects vulnerabilities in AI-generated code using 64 detection rules, automated remediation, and SARIF reporting.
+- **[Skill Forge](https://github.com/Rahul-sch/mac-skill-forge)** — macOS automation system that records user workflows and converts them into reusable, parameterized skills through a multi-stage LLM pipeline.
+- **Nexus** — Secure multi-agent platform that uses specialized AI agents to clarify, critique, and improve prompts through LangGraph workflows.
+- **MedRa Robotics** — ROS 2-powered medical robot that follows a physician and positions a mobile radiation shield during hospital procedures.
 
-## Connect with me
-- LinkedIn: [Rahul Bainsla](https://linkedin.com/in/rahul-bainsla-1b411528a)
-- GitHub: [Rahul-sch](https://github.com/Rahul-sch)
+## Technologies
 
+**Languages:** Python, TypeScript, Swift, SQL, JavaScript  
+**AI & Robotics:** ROS 2, PyTorch, computer vision, LangGraph, Faster-Whisper  
+**Backend & Data:** FastAPI, Node.js, Kafka, PostgreSQL, Supabase, Redis, LanceDB  
+**Frontend:** React, Next.js, SwiftUI  
+**Security & Delivery:** GitHub Actions, automated testing, SARIF, Row Level Security
+
+## Connect
+
+- [LinkedIn](https://linkedin.com/in/rahul-bainsla)
+- [Email](mailto:rahul.bainsla2005@gmail.com)
